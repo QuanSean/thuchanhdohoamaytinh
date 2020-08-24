@@ -1,0 +1,3 @@
+﻿  B11.cpp
+d:\dhmt\lab1\b11\b11.cpp(23): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  B11.vcxproj -> D:\DHMT\Lab1\Debug\B11.exe

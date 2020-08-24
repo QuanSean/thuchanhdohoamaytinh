@@ -1,0 +1,4 @@
+﻿  B13.cpp
+d:\dhmt\lab1\b13\b13.cpp(30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\dhmt\lab1\b13\b13.cpp(32): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  B13.vcxproj -> D:\DHMT\Lab1\Debug\B13.exe
