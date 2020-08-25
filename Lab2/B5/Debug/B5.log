@@ -1,0 +1,9 @@
+﻿  B5.cpp
+d:\dhmt\lab2\b5\b5.cpp(45): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+d:\dhmt\lab2\b5\b5.cpp(50): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\dhmt\lab2\b5\b5.cpp(69): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+d:\dhmt\lab2\b5\b5.cpp(71): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+d:\dhmt\lab2\b5\b5.cpp(82): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+d:\dhmt\lab2\b5\b5.cpp(85): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\dhmt\lab2\b5\b5.cpp(141): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  B5.vcxproj -> D:\DHMT\Lab2\Debug\B5.exe

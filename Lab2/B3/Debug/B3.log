@@ -1,0 +1,12 @@
+﻿  B3.cpp
+d:\dhmt\thực hành\lab2\b3\b3.cpp(174): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\dhmt\thực hành\lab2\b3\b3.cpp(176): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\dhmt\thực hành\lab2\b3\b3.cpp(177): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\dhmt\thực hành\lab2\b3\b3.cpp(181): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\dhmt\thực hành\lab2\b3\b3.cpp(183): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\dhmt\thực hành\lab2\b3\b3.cpp(184): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\dhmt\thực hành\lab2\b3\b3.cpp(190): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\dhmt\thực hành\lab2\b3\b3.cpp(192): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\dhmt\thực hành\lab2\b3\b3.cpp(193): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\dhmt\thực hành\lab2\b3\b3.cpp(255): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  B3.vcxproj -> D:\DHMT\Thực hành\Lab2\Debug\B3.exe

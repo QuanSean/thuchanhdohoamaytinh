@@ -1,0 +1,7 @@
+﻿  B1.cpp
+d:\dhmt\lab2\lab2\b1.cpp(54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\dhmt\lab2\lab2\b1.cpp(100): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+d:\dhmt\lab2\lab2\b1.cpp(101): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+d:\dhmt\lab2\lab2\b1.cpp(102): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+d:\dhmt\lab2\lab2\b1.cpp(103): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+  Lab2.vcxproj -> D:\DHMT\Lab2\Debug\B1.exe

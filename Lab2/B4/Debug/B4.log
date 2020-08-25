@@ -1,0 +1,3 @@
+﻿  B4.cpp
+d:\dhmt\lab2\b4\b4.cpp(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  B4.vcxproj -> D:\DHMT\Lab2\Debug\B4.exe

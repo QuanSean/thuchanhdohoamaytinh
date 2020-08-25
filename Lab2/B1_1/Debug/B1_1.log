@@ -1,0 +1,14 @@
+﻿  B1_1.cpp
+d:\dhmt\lab2\b1_1\b1_1.cpp(53): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+d:\dhmt\lab2\b1_1\b1_1.cpp(57): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\dhmt\lab2\b1_1\b1_1.cpp(58): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\dhmt\lab2\b1_1\b1_1.cpp(59): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\dhmt\lab2\b1_1\b1_1.cpp(60): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\dhmt\lab2\b1_1\b1_1.cpp(62): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\dhmt\lab2\b1_1\b1_1.cpp(83): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+d:\dhmt\lab2\b1_1\b1_1.cpp(84): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+d:\dhmt\lab2\b1_1\b1_1.cpp(89): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\dhmt\lab2\b1_1\b1_1.cpp(96): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+d:\dhmt\lab2\b1_1\b1_1.cpp(99): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\dhmt\lab2\b1_1\b1_1.cpp(144): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  B1_1.vcxproj -> D:\DHMT\Lab2\Debug\B1_1.exe
