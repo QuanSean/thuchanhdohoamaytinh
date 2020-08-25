@@ -1,0 +1,67 @@
+﻿  pch.cpp
+  entities.cpp
+d:\dhmt\thực hành\lab3\b2\global.h(35): error C2371: 'COORD': redefinition; different basic types
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(39): note: see declaration of 'COORD'
+d:\dhmt\thực hành\lab3\b2\entities.cpp(7): error C2039: 'x': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\entities.cpp(7): error C2039: 'y': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\entities.cpp(7): error C2660: 'rectDraw': function does not take 4 arguments
+  d:\dhmt\thực hành\lab3\b2\global.h(44): note: see declaration of 'rectDraw'
+d:\dhmt\thực hành\lab3\b2\entities.cpp(11): error C2039: 'x': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\entities.cpp(12): error C2039: 'y': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\entities.cpp(15): error C2039: 'x': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\entities.cpp(16): error C2039: 'y': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\entities.cpp(35): error C2039: 'x': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\entities.cpp(36): error C2039: 'y': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\entities.cpp(38): error C2039: 'x': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\entities.cpp(39): error C2039: 'y': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\entities.cpp(48): error C2039: 'x': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\entities.cpp(48): error C2039: 'y': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\entities.cpp(48): error C2660: 'rectDraw': function does not take 4 arguments
+  d:\dhmt\thực hành\lab3\b2\global.h(44): note: see declaration of 'rectDraw'
+  game.cpp
+d:\dhmt\thực hành\lab3\b2\global.h(35): error C2371: 'COORD': redefinition; different basic types
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(39): note: see declaration of 'COORD'
+d:\dhmt\thực hành\lab3\b2\game.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\dhmt\thực hành\lab3\b2\game.cpp(30): error C2039: 'y': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\game.cpp(31): error C2039: 'y': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\game.cpp(32): error C2039: 'x': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\game.cpp(33): error C2039: 'x': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\game.cpp(36): error C2039: 'x': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\game.cpp(37): error C2039: 'y': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\game.cpp(42): error C2039: 'x': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\game.cpp(43): error C2039: 'x': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\game.cpp(44): error C2039: 'y': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\game.cpp(45): error C2039: 'y': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\game.cpp(48): error C2039: 'x': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+d:\dhmt\thực hành\lab3\b2\game.cpp(49): error C2039: 'y': is not a member of '_COORD'
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(36): note: see declaration of '_COORD'
+  global.cpp
+d:\dhmt\thực hành\lab3\b2\global.h(35): error C2371: 'COORD': redefinition; different basic types
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(39): note: see declaration of 'COORD'
+  snake.cpp
+d:\dhmt\thực hành\lab3\b2\global.h(35): error C2371: 'COORD': redefinition; different basic types
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\wincontypes.h(39): note: see declaration of 'COORD'
+  Generating Code...
