@@ -1,0 +1,23 @@
+﻿  Dancing.c
+d:\dhmt\thực hành\lab4\b3\dancing.c(159): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\dhmt\thực hành\lab4\b3\dancing.c(160): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\dhmt\thực hành\lab4\b3\dancing.c(168): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\dhmt\thực hành\lab4\b3\dancing.c(178): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\dhmt\thực hành\lab4\b3\dancing.c(186): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\dhmt\thực hành\lab4\b3\dancing.c(194): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\dhmt\thực hành\lab4\b3\dancing.c(202): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\dhmt\thực hành\lab4\b3\dancing.c(210): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\dhmt\thực hành\lab4\b3\dancing.c(218): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\dhmt\thực hành\lab4\b3\dancing.c(318): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\dhmt\thực hành\lab4\b3\dancing.c(321): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\dhmt\thực hành\lab4\b3\dancing.c(338): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\dhmt\thực hành\lab4\b3\dancing.c(361): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\dhmt\thực hành\lab4\b3\dancing.c(364): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\dhmt\thực hành\lab4\b3\dancing.c(370): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\dhmt\thực hành\lab4\b3\dancing.c(373): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\dhmt\thực hành\lab4\b3\dancing.c(379): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\dhmt\thực hành\lab4\b3\dancing.c(394): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\dhmt\thực hành\lab4\b3\dancing.c(408): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+d:\dhmt\thực hành\lab4\b3\dancing.c(434): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\dhmt\thực hành\lab4\b3\dancing.c(658): warning C4133: 'function': incompatible types - from 'char [10]' to 'LPCWSTR'
+  B3.vcxproj -> D:\DHMT\Thực hành\Lab4\Debug\B3.exe
